@@ -1,0 +1,58 @@
+﻿<Window x:Class="ind_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        Title="MainWindow" Height="auto" Width="832" Background="#9BCCA0A0">
+    <DockPanel Width="auto" 
+            Height="Auto" LastChildFill="True" Background="#50F8EFEF">
+        <!--Главная область меню-->
+        <Menu DockPanel.Dock="Top" Background="{x:Null}" HorizontalAlignment="Left" Height="24">
+            <MenuItem Header="Файл" Name="FileMenu" Click="FileMenu_Click" Background="{x:Null}" Foreground="Black" FontFamily="Deutsch Gothic">
+                <MenuItem Header="Заново" Click="reset_Click"/>
+                <MenuItem Header="Выход" Click="ExitClick"/>
+            </MenuItem>
+            <MenuItem Header="Помощь" Click="HelpClick" Background="{x:Null}" Foreground="Black" FontFamily="Deutsch Gothic" />
+        </Menu>
+        <!--Объединенная область -->
+        <!--Левая главная область-->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+        <StackPanel Width="auto" 
+               Height="auto" Opacity="1" Visibility="Visible" Background="#FFC10000" DockPanel.Dock="Right" OpacityMask="#FF29ADD4">
+            <Grid Height="38" Name="grid1" Width="auto">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="146*" />
+                    <ColumnDefinition Width="664*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock FontSize="20" FontStyle="Italic" FontWeight="Bold" Height="34" Name="textBlock1" Text=" Решение уравнений методом Монте-Карло" TextAlignment="Center" Margin="27,0,170,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Column="1" />
+                </Grid>
+            <RadioButton Content="Считать уравнение из файла" Height="16" Name="radioButton_file"/>
+            <RadioButton Content="Ввести уравнение вручную" Height="16" Name="radioButton_TextBox" IsChecked="True" />
+            <Button Content="Далее" Height="23" Name="next" Width="75" Click="next_Click" ToolTip="Ввод дпнных" />
+            <Label Name="label_1" Height="auto" Width="auto" Margin="5,10,5,0" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" VerticalContentAlignment="Center" FontWeight="Bold" FontStretch="SemiCondensed" FontStyle="Normal" Padding="5" Foreground="Black" FontSize="16">Введите уравнение</Label>
+                <Label Name="label_2" Height="auto" Width="177" Margin="5,10,5,0" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" VerticalContentAlignment="Center" FontWeight="Bold" FontStretch="SemiCondensed" FontStyle="Normal" Padding="5" Foreground="Black" FontSize="16">Введенное уравнение</Label>
+            <TextBox Height="60" Name="t_function" Width="187" Margin="5,5,5,5" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" TextWrapping="Wrap" ToolTip="Введите функфию" />
+            <Canvas Height="71" Name="canvas1" Width="663" Visibility="Collapsed">
+                <TextBox Canvas.Left="6" Canvas.Top="36" Height="23" Name="t_a" Width="120" ToolTip="Левая граница" />
+                <Label Canvas.Left="6" Canvas.Top="10" Content="Нижняя граница (a)" Height="28" Name="l_a" Width="120" />
+                <TextBox Canvas.Left="184" Canvas.Top="36" Height="23" Name="t_b" Width="120" ToolTip="Правая граница" />
+                <Label Canvas.Left="184" Canvas.Top="10" Content="Верхняя граница (b)" Height="28" Name="l_b" Width="120" />
+                <TextBox Canvas.Left="348" Canvas.Top="36" Height="23" Name="t_accurate" Width="120" ToolTip="Точность вычисления" />
+                <Label Canvas.Left="348" Canvas.Top="10" Content="Точность" Height="28" Name="l_accurate" Width="120" />
+                <TextBox Canvas.Left="513" Canvas.Top="36" Height="23" Name="t_variable" Width="120" ToolTip="Имя переменной, отностительно которой производятся вычисления" />
+                <Label Canvas.Left="513" Canvas.Top="10" Content="Переменная" Height="28" Name="l_variable" Width="120" />
+            </Canvas>
+                <CheckBox Content="Сохранить графическое отображение результатов расчета" Height="16" Name="s_picture" Visibility="Collapsed" Width="777" />
+            <Button Content="Решить" Height="26" Name="start" Width="118" Background="White" Click="start_Click" Visibility="Collapsed" />
+            <Label Content="Label" Height="28" Name="l_s" Visibility="Collapsed" />
+            <charting:Chart Name="Charts" Margin="3" Height="400" Width="478" Visibility="Collapsed">
+                <charting:LineSeries Name="ChartOne"/>
+                <charting:Chart.Axes>
+                    <charting:LinearAxis Orientation="Y" Title="y" ShowGridLines="True" Name="Y" />
+                    <charting:LinearAxis Orientation="X" Title="x" ShowGridLines="True" Name="X"/>
+                </charting:Chart.Axes>
+            </charting:Chart>
+                <ProgressBar Height="19" Name="progressBar1" Width="607" Visibility="Collapsed" IsIndeterminate="True" />
+        </StackPanel>
+        </ScrollViewer>
+    </DockPanel>
+</Window>
