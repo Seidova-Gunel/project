@@ -1,0 +1,155 @@
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\MainWindow.baml
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\App.g.cs
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.Properties.Resources.resources
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+E:\OOP\ind\ind_2\ind_2\bin\Debug\ind_2.exe
+E:\OOP\ind\ind_2\ind_2\bin\Debug\ind_2.pdb
+E:\OOP\ind\ind_2\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\OOP\ind\ind_2\ind_2\bin\Debug\WPFToolkit.dll
+E:\OOP\ind\ind_2\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\OOP\ind\ind_2\ind_2\bin\Debug\WPFToolkit.pdb
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.exe
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.pdb
+E:\OOP\ind\ind_2\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.exe
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.pdb
+E:\OOP\ind\ind_3\ind_2\bin\Debug\ind_2.exe
+E:\OOP\ind\ind_3\ind_2\bin\Debug\ind_2.pdb
+E:\OOP\ind\ind_3\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\OOP\ind\ind_3\ind_2\bin\Debug\WPFToolkit.dll
+E:\OOP\ind\ind_3\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\OOP\ind\ind_3\ind_2\bin\Debug\WPFToolkit.pdb
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\MainWindow.baml
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\App.g.cs
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.Properties.Resources.resources
+E:\OOP\ind\ind_3\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2.exe
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2.pdb
+E:\OOP\ind\ind_4\ind_2\bin\Debug\ind_2.exe
+E:\OOP\ind\ind_4\ind_2\bin\Debug\ind_2.pdb
+E:\OOP\ind\ind_4\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\OOP\ind\ind_4\ind_2\bin\Debug\WPFToolkit.dll
+E:\OOP\ind\ind_4\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\OOP\ind\ind_4\ind_2\bin\Debug\WPFToolkit.pdb
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\MainWindow.baml
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\App.g.cs
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+E:\OOP\ind\ind_4\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2.exe
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2.pdb
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\MainWindow.baml
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\App.g.cs
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+E:\OOP\ind\ind_5\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+E:\OOP\ind\ind_5\ind_2\bin\Debug\ind_2.exe
+E:\OOP\ind\ind_5\ind_2\bin\Debug\ind_2.pdb
+E:\OOP\ind\ind_5\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\OOP\ind\ind_5\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\OOP\ind\ind_5\ind_2\bin\Debug\WPFToolkit.pdb
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2.exe
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2.pdb
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\MainWindow.baml
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\App.g.cs
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2.g.resources
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+C:\Users\I am\Desktop\ind_5\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+C:\Users\I am\Desktop\ind_5\ind_2\bin\Debug\ind_2.exe
+C:\Users\I am\Desktop\ind_5\ind_2\bin\Debug\ind_2.pdb
+C:\Users\I am\Desktop\ind_5\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\I am\Desktop\ind_5\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\I am\Desktop\ind_5\ind_2\bin\Debug\WPFToolkit.pdb
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2.exe
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2.pdb
+C:\Users\I am\Desktop\ind_6\ind_2\bin\Debug\ind_2.exe
+C:\Users\I am\Desktop\ind_6\ind_2\bin\Debug\ind_2.pdb
+C:\Users\I am\Desktop\ind_6\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\I am\Desktop\ind_6\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\I am\Desktop\ind_6\ind_2\bin\Debug\WPFToolkit.pdb
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2.csprojResolveAssemblyReference.cache
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\MainWindow.baml
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\App.g.cs
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2.g.resources
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+C:\Users\I am\Desktop\ind_6\ind_2\obj\x86\Debug\ind_2.csproj.GenerateResource.Cache
+G:\ind_6\ind_2\obj\x86\Debug\ind_2.exe
+G:\ind_6\ind_2\obj\x86\Debug\ind_2.pdb
+F:\ind_6\ind_2\obj\x86\Debug\ind_2.exe
+F:\ind_6\ind_2\obj\x86\Debug\ind_2.pdb
+F:\ind_6\ind_2\bin\Debug\ind_2.exe
+F:\ind_6\ind_2\bin\Debug\ind_2.pdb
+F:\ind_6\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+F:\ind_6\ind_2\bin\Debug\WPFToolkit.pdb
+F:\ind_6\ind_2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ind_6\ind_2\obj\x86\Debug\MainWindow.baml
+F:\ind_6\ind_2\obj\x86\Debug\MainWindow.g.cs
+F:\ind_6\ind_2\obj\x86\Debug\App.g.cs
+F:\ind_6\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+F:\ind_6\ind_2\obj\x86\Debug\ind_2.g.resources
+F:\ind_6\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+F:\ind_6\ind_2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ind_6\ind_2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ind_6\ind_2\obj\x86\Debug\ind_2.exe
+E:\ind_6\ind_2\obj\x86\Debug\ind_2.pdb
+E:\ind_6\ind_2\bin\Debug\ind_2.exe
+E:\ind_6\ind_2\bin\Debug\ind_2.pdb
+E:\ind_6\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\ind_6\ind_2\bin\Debug\WPFToolkit.pdb
+E:\ind_6\ind_2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ind_6\ind_2\obj\x86\Debug\MainWindow.baml
+E:\ind_6\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\ind_6\ind_2\obj\x86\Debug\App.g.cs
+E:\ind_6\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\ind_6\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\ind_6\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+E:\ind_6\ind_2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ind_6\ind_2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\проект\ind_2\obj\x86\Debug\ind_2.exe
+E:\проект\ind_2\obj\x86\Debug\ind_2.pdb
+E:\проект\ind_2\bin\Debug\ind_2.exe
+E:\проект\ind_2\bin\Debug\ind_2.pdb
+E:\проект\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\проект\ind_2\bin\Debug\WPFToolkit.pdb
+E:\проект\ind_2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\проект\ind_2\obj\x86\Debug\MainWindow.baml
+E:\проект\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\проект\ind_2\obj\x86\Debug\App.g.cs
+E:\проект\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\проект\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\проект\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+E:\проект\ind_2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\проект\ind_2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\проект\проект\ind_2\obj\x86\Debug\ind_2.exe
+E:\проект\проект\ind_2\obj\x86\Debug\ind_2.pdb
+E:\проект\проект\ind_2\bin\Debug\ind_2.exe
+E:\проект\проект\ind_2\bin\Debug\ind_2.pdb
+E:\проект\проект\ind_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\проект\проект\ind_2\bin\Debug\WPFToolkit.pdb
+E:\проект\проект\ind_2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\проект\проект\ind_2\obj\x86\Debug\MainWindow.baml
+E:\проект\проект\ind_2\obj\x86\Debug\MainWindow.g.cs
+E:\проект\проект\ind_2\obj\x86\Debug\App.g.cs
+E:\проект\проект\ind_2\obj\x86\Debug\ind_2_MarkupCompile.cache
+E:\проект\проект\ind_2\obj\x86\Debug\ind_2.g.resources
+E:\проект\проект\ind_2\obj\x86\Debug\ind_4.Properties.Resources.resources
+E:\проект\проект\ind_2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\проект\проект\ind_2\obj\x86\Debug\GenerateResource.write.1.tlog
